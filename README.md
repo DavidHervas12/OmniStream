@@ -1,8 +1,10 @@
-<img src="Omnistream.png" alt="Portada">
+<img src="OmniStream.png" alt="Portada">
 
 # OmniStream
 
 OmniStream es una aplicación revolucionaria que unifica la búsqueda de videos en línea al integrar los resultados de los principales servicios de reproducción, como YouTube, DailyMotion, Vimeo y Facebook, mediante nuestra propia API personalizada. La aplicación permite a los usuarios buscar títulos de videos en múltiples plataformas simultáneamente, ahorrando tiempo y ofreciendo una experiencia de usuario más eficiente.
+
+[Video demo](https://youtu.be/NXGkCv-yPBw)
 
 ## Características Destacadas
 
